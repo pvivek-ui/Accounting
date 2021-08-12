@@ -16,6 +16,8 @@ App that can take transactions and put them in an accounting tabel
     "transaction effect" (debit/credit), 
 
     User previlage
+        Developer
+            *
         Admin
             can create new transaction types
             can add transactions
