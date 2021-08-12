@@ -29,6 +29,9 @@ App Development (Story Name)
     - Create App (acc-1)
         . Create an app in react 
         . Add Redux store to the app
+    
+    - Spike Use Json files as DB (acc-2)
+        . How to read ,write and update Jsonfiles (like Data Base) 
 
     - Create Login Page
         . User can enter username(which is email) and password
