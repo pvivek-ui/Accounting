@@ -23,6 +23,7 @@ App that can take transactions and put them in an accounting tabel
             can add transactions 
 
 App Development (Story Name)
+
     - Create App (acc-1)
         . Create an app in react 
         . Add Redux store to the app
